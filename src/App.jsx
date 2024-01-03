@@ -63,7 +63,7 @@ function App() {
   };
 
   return (
-    <main className="w-screen h-screen bg-gradient-to-b from-gray-200 via-gray-100 to-gray-200 bg-fixed flex items-center flex-col">
+    <main className="w-screen h-screen flex items-center flex-col">
       <Header />
       <section className="w-4/5 lg:w-3/5 xl:w-1/2 h-full max-sm:w-full flex flex-col justify-evenly items-center">
         <h1 className="text-center text-blue-500 text-3xl uppercase max-sm:text-2xl">
