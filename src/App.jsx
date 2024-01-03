@@ -46,11 +46,13 @@ function App() {
   }, [currentLocation]);
 
   useEffect(() => {
+    setLoading(true);
     if (cityToCheck != "") {
       getCityWeather(cityToCheck).then((res) => {
         setWeather(res);
       });
     }
+    setLoading(false);
   }, [cityToCheck]);
 
   const callWeather = (e) => {
