@@ -21,7 +21,7 @@ const CardWeather = ({ currentWeather, locationWeather }) => {
 
   if (Object.keys(weatherData).length != 0) {
     iconCode = weatherData.weather.icon;
-    iconSrc = `../../public/icons/${iconCode}.png`;
+    iconSrc = `icons/${iconCode}.png`;
     weatherDescription = weatherData.weather.description;
     weatherDir = weatherData.wind_cdir_full.toUpperCase();
     weatherSpd = weatherData.wind_spd.toFixed(0);

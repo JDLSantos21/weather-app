@@ -14,11 +14,7 @@ const Header = () => {
   return (
     <header className="w-full h-[60px] flex justify-between items-center">
       <div className="max-w-full pl-10">
-        <img
-          src="../../public/images/projects-logo.png"
-          alt="logo"
-          className="max-w-16"
-        />
+        <img src="images/projects-logo.png" alt="logo" className="max-w-16" />
       </div>
       <nav className="w-2/4 h-full flex justify-center items-center">
         <ul className="flex justify-evenly w-full">
