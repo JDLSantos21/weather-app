@@ -18,6 +18,6 @@ This is an application to check the current weather in different cities around t
 
 Tablet and Mobile
 
-<img src='https://github.com/JDLSantos21/weather-app/assets/79732142/0e114e49-04c7-421f-a525-c142706314db' width='40%'/> <img src='https://github.com/JDLSantos21/weather-app/assets/79732142/c6a80a09-6ed8-4bcf-8584-ba7530cdf9b3' width='50%'/>
+<img src='https://github.com/JDLSantos21/weather-app/assets/79732142/0e114e49-04c7-421f-a525-c142706314db' width='40%'/> <img src='https://github.com/JDLSantos21/weather-app/assets/79732142/c6a80a09-6ed8-4bcf-8584-ba7530cdf9b3' width='50%' position='top'/>
 
 
