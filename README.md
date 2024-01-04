@@ -12,10 +12,13 @@ This is an application to check the current weather in different cities around t
 
 ## Preview of the app
 
-Desktop
-![image](https://github.com/JDLSantos21/weather-app/assets/79732142/0b0eb90b-2518-4393-875f-e352c4f107de)
+*Desktop*
 
-Mobile
-![image](https://github.com/JDLSantos21/weather-app/assets/79732142/0e114e49-04c7-421f-a525-c142706314db)
+![image](https://github.com/JDLSantos21/weather-app/assets/79732142/206be036-2ce4-4c81-b369-64d32fa0862a)
+
+Tablet and Mobile
+
+![image](https://github.com/JDLSantos21/weather-app/assets/79732142/c6a80a09-6ed8-4bcf-8584-ba7530cdf9b3)
+![image](https://github.com/JDLSantos21/weather-app/assets/79732142/0e114e49-04c7-421f-a525-c142706314db) 
 
 
