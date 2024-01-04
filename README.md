@@ -5,7 +5,17 @@ This is an application to check the current weather in different cities around t
 ## Resources used
 <img src="https://github.com/JDLSantos21/weather-app/assets/79732142/d9a2e23e-443d-4a41-96a7-afd49e489c2d" width='100px' /> <img src="https://github.com/JDLSantos21/weather-app/assets/79732142/cbfdb376-13f2-460c-9f36-e86c1ba5b60e" width='100px' /> <img src="https://github.com/JDLSantos21/weather-app/assets/79732142/f2bc566a-8fdf-49db-a622-d9bfdc9c9fe0" width='100px' /> <img src="https://github.com/JDLSantos21/weather-app/assets/79732142/ccaf4b8b-20a7-4fb3-a8d4-f34e1d3501c0" width='100px' />
 
+-Weatherbit.io API
+-ReactJS
+-Axios
+-TailwindCSS
 
+## Preview of the app
 
+Desktop
+![image](https://github.com/JDLSantos21/weather-app/assets/79732142/0b0eb90b-2518-4393-875f-e352c4f107de)
+
+Mobile
+![image](https://github.com/JDLSantos21/weather-app/assets/79732142/0e114e49-04c7-421f-a525-c142706314db)
 
 
